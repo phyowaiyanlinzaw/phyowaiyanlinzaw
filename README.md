@@ -5,7 +5,7 @@
 
 <p>&nbsp;<img style="margin-top: 10px" align="center" src="https://github-readme-stats.vercel.app/api?username=phyowaiyanlinzaw&show_icons=true&locale=en" alt="phyowaiyanlinzaw" width="385" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phyowaiyanlinzaw" alt="phyowaiyanlinzaw" /></a> </p>
+<p align="left" style="margin-top: 10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phyowaiyanlinzaw" alt="phyowaiyanlinzaw" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
