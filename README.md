@@ -3,7 +3,7 @@
 
 <p><img style="margin-top: 10px;width=100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phyowaiyanlinzaw&show_icons=true&locale=en&layout=compact" alt="phyowaiyanlinzaw" /></p>
 
-<p align="left" style="margin-top: 10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phyowaiyanlinzaw&theme=nord" alt="phyowaiyanlinzaw" /></a> </p>
+<p align="left" style="margin-top: 10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phyowaiyanlinzaw&theme=nord&title=Followers,Joined,Repo,Commit" alt="phyowaiyanlinzaw" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
