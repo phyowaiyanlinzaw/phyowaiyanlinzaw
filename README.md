@@ -1,10 +1,6 @@
 <h1 align="center">Hey there, I am Phyo Wai Yan Lin Zaw</h1>
 <h3 align="center">An enthusiastic and motivated coder with a passion for programming and problem-solving.A quick learner and a team player, I am always excited to contribute to exciting projects and gain valuable experience in the field of software development.Here, on my GitHub, you can see some of my best works that I have created during these years. Wander through my creations and let's make the world better place together.</h3>
 
-<p><img style="margin-top: 10px;width=100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phyowaiyanlinzaw&show_icons=true&locale=en&layout=compact" alt="phyowaiyanlinzaw" /></p>
-
-<p align="left" style="margin-top: 10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phyowaiyanlinzaw&theme=nord&title=Followers,Joined,Repo,Commit" alt="phyowaiyanlinzaw" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/phyowaiyanlinzaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phyowaiyanlinzaw" height="30" width="40" /></a>
