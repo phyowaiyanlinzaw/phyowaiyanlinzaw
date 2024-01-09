@@ -7,9 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phyowaiyanlinzaw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jug31vpkfotf80mvicd8wrvsx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jug31vpkfotf80mvicd8wrvsx&redirect=true)
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jug31vpkfotf80mvicd8wrvsx&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jug31vpkfotf80mvicd8wrvsx&redirect=true)
+
 
 ###
 
