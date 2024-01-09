@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://open.spotify.com/user/jug31vpkfotf80mvicd8wrvsx?si=526ec99a6e3c40e9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=FFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
   </a>
 </div>
 
