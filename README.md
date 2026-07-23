@@ -1,14 +1,28 @@
-# 💫 About Me:
-Software Engineering Student | Mae Fah Luang University<br><br>I am a Software Engineering sophomore with a focus on building scalable full-stack applications and predictive data models. My technical foundation is built on a 3.98 GPAX and a commitment to writing clean, maintainable code.<br><br><br>Current Focus: Developing robust backend solutions using Java Spring Boot and cross-platform mobile applications with React Native.<br><br><br>Key Achievement: 1st Place Winner of the LINE x MFU Hackathon 2025, where I developed a LIFF-based platform to solve real-world challenges.<br><br>Data Science Interest: Recently developed a Machine Learning model using Random Forest to predict Food Delivery ETA, optimizing logistics insights through feature engineering.<br><br>Professional Experience: Gained hands-on experience in mobile development and RESTful API integration during my tenure at Ace Data Systems.<br><br>I am passionate about leveraging technology to solve complex problems and am currently exploring advanced Machine Learning techniques to complement my software engineering skills.
+# 💫 About Me
 
+Software Engineering Student | Mae Fah Luang University
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phyowaiyanlinzaw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phyowaiyanlinzaw.3005@gmail.com) 
+I am a Software Engineering student with a 3.98 GPAX who enjoys building scalable full-stack applications, AI-powered solutions, and data-driven systems. I have professional software development experience and a proven track record of delivering award-winning projects through national hackathons.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🏆 Achievements
 
----
-[![](https://visitcount.itsvg.in/api?id=phyowaiyanlinzaw&icon=0&color=0)](https://visitcount.itsvg.in)
+🥇 **1st Place — ADT MediHack 2026**
+- Built **Mammogram AI**, an AI-assisted radiology support platform featuring BI-RADS classification, abnormality detection, and role-based workflows for healthcare professionals.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🥇 **1st Place — LINE × MFU Hackathon 2025**
+- Developed a LIFF-based platform that solved real-world business challenges using the LINE ecosystem.
+
+### 💼 Professional Experience
+
+**Software Developer — Ace Data Systems**
+
+Worked on production software, contributing to mobile application development, RESTful API integration, and collaborative software engineering within a professional development team.
+
+### 🚀 Current Focus
+
+- Machine Learning & Deep Learning
+- AI-powered application development
+- Cloud-native backend architecture
+- System Design & Scalable Software Engineering
+
+I enjoy building software that combines strong engineering principles with AI to create practical solutions for real-world problems.
